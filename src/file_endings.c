@@ -1,5 +1,5 @@
 
-char file_ends[15][6] = {
+char file_ends[20][8] = {
     ".C",
     ".C++",
     ".CSS",
@@ -11,8 +11,8 @@ char file_ends[15][6] = {
     ".JS",
     ".JSON", 
     ".PDF",
-    ".PYTHON" 
-    ".PERL"
+    ".PYTHON", 
+    ".PERL",
     ".PNG",
     ".SH",
     ".SVG"
